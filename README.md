@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tharunstev
-- 👀 I’m interested in ...Creting Stuff
+- 👀 I’m interested in ...Creating Weird Stuff
 - 🌱 I’m currently learning ...Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me   tharunstev@yahoo.com
